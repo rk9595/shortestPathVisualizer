@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+tmp/
